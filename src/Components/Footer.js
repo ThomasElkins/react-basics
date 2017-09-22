@@ -3,7 +3,7 @@ class Footer extends Component {
 
   render (name) {
     return (
-      <div className="footer">{this.props.name} 2017</div>
+      <div className="footer">Thomas 2017</div>
     )
   }
 }
